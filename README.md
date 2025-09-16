@@ -6,16 +6,22 @@
 <h2>About Me😃</h2>
 
 <p align="left">
-I’m a Back-end Developer who loves working with Go! 🚀 I thrive on continuous learning 📚 and enjoy exploring new technologies to enhance my skills. With a background in software development, I’m always eager to tackle new challenges and contribute to innovative projects. Let’s connect and create something great together! 🤝
+I’m a <b>Software Engineer</b> with +2 years of experience in <b>Backend Development</b>, mainly using <b>Go, Python, and SQL</b>.  
+I have designed and implemented APIs, optimized database queries, and worked with relational and NoSQL databases.  
 
-📫 Contacto: **kevin.2110hc@gmail.com**
+💡 Recently, I’ve been involved in <b>Data Engineering</b>, building ETL pipelines and integration processes.  
+🤖 Currently learning and applying <b>Machine Learning & AI</b> to small projects focused on data analysis and predictive models.  
+
+⚡ I’m passionate about clean code, scalable architectures, and continuous learning.  
+📂 I also enjoy contributing to GitHub by sharing projects, documentation, and collaborating with others.  
+
+📫 Contact: **kevin.2110hc@gmail.com**
 </p>
 
 <h2 >Known technologies👨🏻‍💻</h2>
-<!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,aws,cs,cpp,java,py,dotnet,angular,css,html,graphql,js,postgres,mysql,mongodb,git,github,docker,kubernetes,postman,vscode,md,npm,githubactions,linux,jenkins&perline=12" />
+    <img src="https://skillicons.dev/icons?i=go,py,postgres,mysql,mongodb,typescript,vue,html,tailwind,git,github,docker,kubernetes,aws,gcp,linux,vscode,md&perline=10" />
   </a>
 </p>
 
