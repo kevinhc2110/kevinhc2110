@@ -21,7 +21,7 @@ I have designed and implemented APIs, optimized database queries, and worked wit
 <h2 >Known technologies👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,postgres,mysql,mongodb,typescript,vue,html,tailwind,git,github,docker,kubernetes,aws,gcp,linux,vscode,md&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,sklearn,go,postgres,mysql,mongodb,dart,flutter,typescript,vue,react,tailwind,html,git,github,docker,kubernetes,aws,gcp,redis,rabbitmq,graphql,firebase,supabase,linux,vscode,md&perline=10" />
   </a>
 </p>
 
