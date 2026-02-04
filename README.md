@@ -34,7 +34,7 @@ I’m passionate about building practical, orderly, and scalable systems while c
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinhc2110&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinhc2110&theme=github_dark&cache_seconds=10" />
   &nbsp;&nbsp;
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinhc2110&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kevinhc2110&theme=github_dark&cache_seconds=10" />
 </p>
