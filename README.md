@@ -6,14 +6,14 @@
 <h2>About Me😃</h2>
 
 <p align="left">
-I’m a <b>Software Engineer</b> with +2 years of experience in <b>Backend Development</b>, mainly using <b>Go, Python, and SQL</b>.  
-I have designed and implemented APIs, optimized database queries, and worked with relational and NoSQL databases.  
+I’m a <b>Automation & Applied AI Engineer</b> with +2 years of experience building <b>APIs, intelligent pipelines, and automated systems</b> using <b>Python and n8n</b>.
+I design clear workflows (Input → Transform → Output), integrate services, and deploy scalable solutions with Docker and cloud services.
 
-💡 Recently, I’ve been involved in <b>Data Engineering</b>, building ETL pipelines and integration processes.  
-🤖 Currently learning and applying <b>Machine Learning & AI</b> to small projects focused on data analysis and predictive models.  
+💡 Recently, I’ve been working with <b>LLM integration and AI-driven automation</b> to turn raw data into actionable insights.
+🤖 I also build front-end interfaces with <b>React and Expo</b> when needed to visualize automated systems.
 
-⚡ I’m passionate about clean code, scalable architectures, and continuous learning.  
-📂 I also enjoy contributing to GitHub by sharing projects, documentation, and collaborating with others.  
+⚡ I’m passionate about building practical, orderly, and scalable systems, and continuously learning new technologies.
+📂 I enjoy sharing projects on GitHub, documenting workflows, and collaborating with others.
 
 📫 Contact: **kevin.2110hc@gmail.com**
 </p>
