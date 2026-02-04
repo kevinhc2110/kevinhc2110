@@ -22,9 +22,9 @@ I’m passionate about building practical, orderly, and scalable systems while c
 
 <h2>Known Technologies</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,react,docker,aws,azure,postgres,mysql,mongodb,sklearn,pytorch,tensorflow&perline=10" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,react,docker,linux,git,github,aws,azure,postgres,mysql,mongodb,sklearn,pytorch,nodejs,vscode&perline=10" />
+
 </p>
 
 <h2 align="left">GitHub Stats</h2>
