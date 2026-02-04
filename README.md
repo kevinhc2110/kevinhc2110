@@ -23,16 +23,25 @@ I design clear workflows (Input → Transform → Output), integrate services, a
 <h2>Known Technologies 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,n8n,react,expo,docker,aws,gcp,postgres,mysql,mongodb,sklearn,pytorch,tensorflow&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,react,docker,azure,aws,postgres,mysql,mongodb,sklearn,pytorch,tensorflow&perline=10" />
   </a>
 </p>
 
 <h2>GitHub Stats 🐱‍💻</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinhc2110&theme=dark&show_icons=true&count_private=true" alt="Kevin's GitHub stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhc2110&theme=dark" alt="Kevin's GitHub streak" />
+  <table align="left">
+    <tr border="none">
+      <td width="60%" align="center">
+        <!-- Streak -->
+        <img title="🔥 GitHub Streak" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhc2110&theme=dark&hide_border=false" />
+      </td>
+      <td width="40%" align="center">
+        <!-- Lenguajes principales -->
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevinhc2110&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Kevin's Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinhc2110&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Kevin's GitHub trophies" />
-</p>
+
+
